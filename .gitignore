@@ -2,3 +2,5 @@
 /*.a
 /*.ok
 /*_test
+/build/*
+/cmake-build-*
